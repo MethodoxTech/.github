@@ -6,8 +6,12 @@ At Methodox Technologies, Inc., we specialize in creating cutting-edge productiv
 
 We believe in open accessibility and this Github organization is where we share our experience with the community.
 
+To learn more about us, visit our [official website](https://methodox.io/)!
+
 ## Divooka
 
 [Divooka](https://methodox.itch.io/) is a modern high-level visual programming language. It integrates IDE, compiler, editor, application frameworks and frontend apps.
 
-To learn more about us, visit our [official website](https://methodox.io/)!
+## Legacy Stuff
+
+If you are looking for some legacy code, see [Methodox Parcel](https://github.com/MethodoxParcel).
