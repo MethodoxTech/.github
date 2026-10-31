@@ -7,7 +7,7 @@ Methodox Technologies, Inc. is a Toronto-based independent software studio. Our 
 ## Divooka
 
 * [**Divooka Explore**](https://store.steampowered.com/app/4422920/Divooka_Explore/) is the learning and exploring edition, with a free [demo](https://store.steampowered.com/app/4770820/Divooka_Explore_Demo/) on Steam.
-* [**Divooka Compute**](https://store.steampowered.com/app/3381720/Divooka_Compute/) is the professional edition, planned for release in December 2026.
+* [**Divooka Compute**](https://store.steampowered.com/app/3381720/Divooka_Compute/) is the professional edition, coming after Explore.
 * The [Methodox Wiki](https://wiki.methodox.io/) is the manual. The [Divooka website](https://divooka.com/) has the overview and a browser-based taster.
 
 ## What is here
